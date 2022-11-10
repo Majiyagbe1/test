@@ -1,0 +1,14 @@
+/* selector {
+    PROPERTY : VALUE
+}
+SELECTOR WITH TAGNAME
+SELECTOR WITH AN ID NAME
+SELECTOR WITH A CLASSNAME
+*/
+
+.container {
+    display: flex;
+
+    justify-content: space-between;
+
+}
